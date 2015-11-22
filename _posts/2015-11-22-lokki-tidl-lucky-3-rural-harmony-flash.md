@@ -17,8 +17,8 @@ keywords:
   - bes
   - banjo
 description: 'Kvartetten, bestående av habile sangere innenfor et mangetall sjangre, har lagt sin elsk på rural, amerikansk harmonisang. Bluegrass, Old-Time, Southern gospel og Jubilee sang. De akkompagnerer seg selv med gitar og banjo, og synger utadvendte sanger om kjærlighet og tap. Stemmene spenner seg fra det buldrende bassregister til lysere lengsler.'
-datePublished: '2015-11-22T18:42:07.957Z'
-dateModified: '2015-11-22T18:42:03.143Z'
+datePublished: '2015-11-22T18:43:14.823Z'
+dateModified: '2015-11-22T18:43:10.312Z'
 author: []
 related: []
 app_links: []
